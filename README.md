@@ -1,2 +1,2 @@
-# simple-demo
-First Application
+#Simple Example Repository
+Just first file
